@@ -2,7 +2,7 @@
 target
 Cargo.lock
 devenv/*
-!devenv/tests/docker/entrypoint
+!devenv/integration/docker/entrypoint
 coverage
 romeo/testing/
 romeo/asset-contract/.test
